@@ -94,5 +94,8 @@
         "nativeOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "1.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "https://native-test20220110-sandbox.mxapps.io"
 }
